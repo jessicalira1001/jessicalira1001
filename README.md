@@ -1,21 +1,30 @@
 ## Olá, eu sou a Jéssica Lira 👋
 
 - 🖥️ Eu sou formada em Ciência da computação pela Universidade Federal de Alagoas (UFAL) 👩🏽‍💻
-- 👩‍💻 Atualmente estou me especializando na linguagem JAVA
+- 👩‍💻 Fiz um treinamento na linguagem Java através da Gama Academy onde pude entender como funciona o trabalho em uma Squad utilizando as metologias ágeis Scrum e Kanban. 
 
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicalira1001&show_icons=true&theme=transparent)
-  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicalira1001&layout=compact&theme=graywhite&hide_border=true" width="313" />
+
+
 </div>
+
 
 ## Ferramentas e tecnologias
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+          
 </div>
 
 ## Contatos:
