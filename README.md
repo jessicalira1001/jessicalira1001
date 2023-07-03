@@ -1,7 +1,8 @@
 ## Olá, eu sou a Jéssica Lira 👋
 
-- 🖥️ Eu sou formada em Ciência da computação pela Universidade Federal de Alagoas (UFAL) 👩🏽‍💻
-- 👩‍💻 Fiz um treinamento na linguagem Java através da Gama Academy onde pude entender como funciona o trabalho em uma Squad utilizando as metologias ágeis Scrum e Kanban. 
+- 🖥️ Eu sou formada em Ciência da computação pela Universidade Federal de Alagoas (UFAL) 
+- 👩‍💻 Fiz um treinamento na linguagem Java através da Gama Academy (Projeto em parceria com a PagBank)
+- 👩🏽‍💻 Atualmente estou estudando desenvolvimento Back-end com a linguagem JavaScript.
 
 <div align="center">
   
