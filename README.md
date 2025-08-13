@@ -1,17 +1,13 @@
 ## Olá, eu sou a Jéssica Lira 👋
+<div>
+Sou desenvolvedora Back-end focada em Node.js e JavaScript. Crio APIs REST, integro sistemas com bancos de dados e implemento autenticação JWT. Tenho projetos completos no meu portfólio, com deploy e documentação.
 
-- 🖥️ Eu sou formada em Ciência da computação pela Universidade Federal de Alagoas (UFAL) 
-- 👩‍💻 Fiz um treinamento na linguagem Java através da Gama Academy (Projeto em parceria com a PagBank)
-- 👩🏽‍💻 Atualmente estou estudando desenvolvimento Back-end com a linguagem JavaScript.
-
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicalira1001&show_icons=true&theme=transparent)
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicalira1001&layout=compact&theme=graywhite&hide_border=true" width="313" />
-
+## 🚀 Projetos em Destaque
+- [Task Manager API](https://github.com/jessicalira1001/task-manager-nodejs) — API RESTful com CRUD, autenticação JWT, PostgreSQL e boas práticas de arquitetura.
+- [User Management API](https://github.com/jessicalira1001/user-management-API) — Em desenvolvimento. CRUD de usuários, autenticação JWT, Swagger, testes.
+- [Weather History API](https://github.com/jessicalira1001/weather-history-API) — Próximo projeto. Integração com API externa e agendamento de tarefas.
 
 </div>
-
 
 ## Ferramentas e tecnologias
 <div> 
@@ -27,6 +23,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>
 
 </div>
+<br>
+<br>
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicalira1001&show_icons=true&theme=transparent)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicalira1001&layout=compact&theme=graywhite&hide_border=true" width="313" />
+
+
+</div>
+<br>
+<br>
 
 ## Contatos:
 
