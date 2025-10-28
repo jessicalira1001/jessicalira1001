@@ -9,6 +9,7 @@ Atualmente, foco em criar APIs REST com Node.js e JavaScript, aplicando boas pr�
 ## 🚀 Projetos em Destaque
 
 - [Task Manager API](https://github.com/jessicalira1001/task-manager-nodejs) — API RESTful para gerenciamento de tarefas (CRUD) com autenticação JWT, criptografia de senhas (bcrypt), PostgreSQL e arquitetura em camadas (MSCR).
+- [E-commerce](https://github.com/jessicalira1001/case-ecommerce) — Aplicação full stack com Node.js, Express, PostgreSQL e React, integrando front e back via API RESTful. Implementa listagem de produtos, carrinho e finalização de compras. Arquitetura em camadas (Controller → Service → Repository) e uso de CORS para comunicação entre aplicações.
 - [User Management API](https://github.com/jessicalira1001/user-management-API) — (Em desenvolvimento) CRUD de usuários com autenticação JWT, criptografia de senhas, PostgreSQL, documentação com Swagger e testes automatizados com Jest.
 - [Weather History API](https://github.com/jessicalira1001/weather-history-API) — (Próximo projeto) Integração com API externa para consulta de clima, armazenamento de histórico e agendamento de tarefas com cron jobs.
 
